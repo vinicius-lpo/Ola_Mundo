@@ -1,2 +1,2 @@
-# Ola_Mundo
- Criando meu primeiro repositorio
+# Olá, mundo!
+ Criando meu primeiro repositorio junto com o curso em video.
